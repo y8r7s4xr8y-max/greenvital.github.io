@@ -44,4 +44,21 @@ section {
     }
 section {
         margin-top: 0;
+}.gallery {
+    padding-top: 0;
+    text-align: center;
+}
+
+.gallery .images {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    max-width: 260px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
