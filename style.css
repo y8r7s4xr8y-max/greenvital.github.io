@@ -71,5 +71,7 @@ footer {
     max-width: 300px;
     width: 100%;
     border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.12);  
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12); 
+  .gallery {
+    padding:60px 20px;
 }
